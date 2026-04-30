@@ -1,0 +1,12 @@
+sistema_vendas/
+│
+├── main.py
+├── conexao.py
+├── clientes.py
+├── produtos.py
+├── vendedores.py
+├── vendas.py
+├── relatorios.py
+├── dashboard.py
+├── requirements.txt
+└── README.md
